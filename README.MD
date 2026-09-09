@@ -261,21 +261,7 @@ No necesitas `npm install`, un bundler ni un proceso de compilación para la imp
 
 ## 📄 Licensing & Third-Party Notices
 
-El HTML entregado incluye código de terceros con sus avisos de licencia correspondientes.
-
-### JavaScript Obfuscator
-
-El código embebido del motor incluye el aviso de copyright de **Timofei Kachalov** y las condiciones de redistribución de su licencia **BSD de 2 cláusulas**. fileciteturn5file0L295-L310
-
-### JSZip
-
-La versión embebida es **JSZip 3.10.1**. El aviso incluido en el propio archivo indica licencia dual **MIT o GPLv3** y señala que JSZip utiliza `pako` bajo licencia MIT. fileciteturn6file0L84-L94
-
-### Acorn
-
-El archivo incorpora **Acorn 8.18.0** como parser JavaScript. fileciteturn6file0L10-L38
-
-> **Nota:** el archivo fuente proporcionado no declara una licencia propia para la aplicación **Opaco** como proyecto independiente. Por ello, este README no atribuye una licencia de proyecto que no esté explícitamente indicada en la implementación entregada. Los componentes de terceros conservan sus propias licencias y avisos.
+APACHE 2.0
 
 ---
 
